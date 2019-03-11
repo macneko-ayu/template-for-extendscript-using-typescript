@@ -13,8 +13,8 @@ $ npm install
 $ npm run watch
 ```
 
-If you change and save `app.js`, `app.js` is export to `dist`.
-
+If you change and save `src/app.ts`, `app.js` is export to `dist/`.  
+Excute `dist/app.js` on visual studio code, or excute from application.
 
 # Licence
 This software is released under the MIT License, see LICENSE.txt.
