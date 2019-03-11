@@ -1,0 +1,18 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "watch": "tsc -w"
+  },
+  "keywords": [],
+  "author": "macneko-ayu",
+  "license": "MIT",
+  "devDependencies": {
+    "types-for-adobe": "^1.5.0"
+  }
+}
