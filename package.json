@@ -13,6 +13,6 @@
   "author": "macneko-ayu",
   "license": "MIT",
   "devDependencies": {
-    "types-for-adobe": "^1.5.0"
+    "types-for-adobe": "github:ten-A/types-for-adobe"
   }
 }
